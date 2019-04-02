@@ -1,0 +1,4 @@
+[submodule "verilator"]
+	path = ./third-party/verilator
+	url = http://git.veripool.org/git/verilator
+	branch = stable
